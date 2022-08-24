@@ -4,10 +4,12 @@ import os
 os.system("cls")
 
 mydb = mysql.connector.connect(
+  #If you are not experieced with Python, please only edit the text in the variables between theese comments
   host="localhost",
   user="user",
   password="pass",
   database="Database"
+  #If you are not experieced with Python, please only edit the text in the variables between theese comments
 )
 
 mycursor = mydb.cursor()
