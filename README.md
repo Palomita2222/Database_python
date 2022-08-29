@@ -17,3 +17,5 @@ Before running code, enter the script with any text editor and modify the userna
 #IMPORTANT# For now, you can create custom tables, and in theese you can add userames and passwords to store them securely. The script is being updated soon and a V2 is coming! In the V2, the script will include customisability to the data and you will be able to append to the DB dictionaries with more than 2 pieces of data, or individual strings & numbers. For now the script saves 2 values you enter as username and the other one as password.
 
 Thanks for everything!
+
+EDIT: IF YOU ARE READING THIS, THE CODE IS NOT PROPERLY WORKING, I AM UPDATING THE CODE RIGHT NOW, THANKS
