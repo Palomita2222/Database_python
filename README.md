@@ -3,7 +3,8 @@ This will connect to a python DataBase. It can be localhost, and also can be fro
 
 To use, please follow the following steps:
 
-"pip install bs4" in command prompt
+"pip install mysql" in command prompt
+also, remove the from bs4 import BeautifulSoup, dunno how it got there :/
 
 go to https://dev.mysql.com/downloads/installer/ and install msql
 MAKE SURE IN THE INSTALATION TO INSTALL ALL REQUIREMENTS
