@@ -19,5 +19,4 @@ Before running code, enter the script with any text editor and modify the userna
 
 Thanks for everything!
 
-EDIT: IF YOU ARE READING THIS, THE CODE IS NOT PROPERLY WORKING, I AM UPDATING THE CODE RIGHT NOW, THANKS
-ANOTHER EDIT: I AM NO LONGER WORKING ON IT :(, You can still use the code as a guide, as portions of it work fine, but it just breaks when all together
+EDIT: IF YOU ARE READING THIS, THE CODE IS NOT PROPERLY WORKING, YOU CAN DO WHATEVER YOU WANT WITH IT, BUT IT IS NOT BEING FIXED (atleast not currently)
